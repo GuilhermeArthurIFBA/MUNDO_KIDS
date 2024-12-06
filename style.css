@@ -424,6 +424,7 @@ main{
     justify-content: space-between;
 }
 .categoria{
+    max-width: 1700px;
     box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.250);
     font-family: baloo;
     font-size: 32px;
